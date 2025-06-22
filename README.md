@@ -1,0 +1,1 @@
+# Image-Detailed-Description-GEnerator-AI-model-
