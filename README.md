@@ -1,4 +1,4 @@
-# Image-Detailed-Description-GEnerator-AI-model-
+# Image-Detailed-Description-Generator-AI-model-
 
 
 ---
